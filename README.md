@@ -18,7 +18,7 @@ O cálculo é baseado na fórmula amplamente utilizada no Brasil:
 
 ## 🖼️ Captura de Tela
 
-<img src="c357f225-254f-46be-8918-74027801d111.png" alt="Tela do app Álcool ou Gasolina" width="300">
+<img src="https://github.com/WilsonGomes95/AlcoolOuGasolina/blob/main/app/src/main/res/drawable/Captura%20de%20tela%202025-08-14%20092723.png" alt="Tela do app Álcool ou Gasolina" width="300">
 
 ---
 
